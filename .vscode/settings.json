@@ -2,7 +2,7 @@
     "files.autoSave": "afterDelay",
     "editor.tabSize": 2,
     "editor.rulers": [
-        80
+        100
     ],
     "python.analysis.extraPaths": [
       "/opt/ros/humble/lib/python3.10/site-packages",
