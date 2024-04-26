@@ -3,7 +3,10 @@
     {
       "name": "Linux",
       "includePath": [
-        "/usr/include/**"
+        "/usr/include/**",
+        "/opt/ros/humble/include/**",
+        "${WORKSPACE}/install/**",
+        "${WORKSPACE}/src/**"
         // Add more include paths based on the project
       ],
       "defines": [],
